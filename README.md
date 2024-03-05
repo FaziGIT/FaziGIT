@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @FaziGIT
-- 👀 I’m interested about Code 
-- 🌱 I’m currently learning C# / PHP / SQL / FrameWork Symfony
-- 📫 How to reach me ?In dm !
+- 🌱 I’m currently learning Symfony / React 
+- 📫 How to reach me ? In dm !
