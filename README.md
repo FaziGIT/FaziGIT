@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @FaziGIT
-- 🌱 I’m currently learning Symfony / React / AdonisJS
+- 🌱 I’m currently learning Astro / Elixir
 - 📫 How to reach me ? In dm !
