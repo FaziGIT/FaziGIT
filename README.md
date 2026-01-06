@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @FaziGIT
 - 🌱 I’m currently learning Astro / Elixir
+- 🔜 Trying to move to Toronto
 - 📫 How to reach me ? In dm !
