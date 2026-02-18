@@ -1,3 +1,3 @@
-- 🌱 I’m currently learning Astro / Elixir
+- 💻 Stack: Symfony - Laravel - AdonisJS - Inertia.js - React - Astro
 - 🔜 Trying to move to Toronto
 - 📫 How to reach me ? Here : mailing.mathis@gmail.com
